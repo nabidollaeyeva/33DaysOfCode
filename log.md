@@ -4,4 +4,5 @@
 - Explore new NumberFormat class, specificlly getCurrencyInstance() method (did Java Currency Formatter exercise on HackerRank)
 
 # Day 2:
-- 
+- Worked with Python on codeacademy
+- Completed several lessons and got some knowledge 
